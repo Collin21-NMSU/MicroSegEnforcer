@@ -1,6 +1,6 @@
 # MicroSegEnforcer
 
- A lightweight C# console utility to evaluate network traffic rules against JSON micro segmentation policies.
+ A lightweight C# console utility to evaluate network traffic rules against JSON microsegmentation policies.
 
  ## Features
  * Parses JSON-based security policy files.
